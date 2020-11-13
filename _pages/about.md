@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: https://niklasschaaf.github.io//images/Dhauladhar.jpg
-  overlay_filter: 0.5
+  overlay_filter: 1
   caption: "Dhauladar Range by [Niklas Schaaf](https://niklasschaaf.github.io/)"
 excerpt: ""
 ---
@@ -18,6 +18,6 @@ I recently started my PhD at Kiel University in collaboration with the Universit
 Arctic background
 ======
 ![Sarstangen by Erik Kuschel](/images/Sarstangen.jpg)
-Previously, I lived and studied on Svalbard in the Norwegian Arctic. Svalbard is a great place for geology and offers an extraordinary field laboratory for a variety of geological problems. My MSc thesis for example, deals with the tectono-sedimentary evolution of  the Forlandsundet Graben, a transtensional basin on the west coast of Spitsbergen. During my time on Svalbard, I led several field campaigns to remote areas and accompanied field work of other research parties on many occasions.
+I used to live and study on Svalbard in the Norwegian Arctic. It is a great place for geology and offers an extraordinary field laboratory for a variety of geological problems. My MSc thesis for example, deals with the tectono-sedimentary evolution of  the Forlandsundet Graben, a transtensional basin on the west coast of Spitsbergen. During my time on Svalbard, I led several field campaigns to remote areas and accompanied field work of other research parties on many occasions.
 ![Polar bear guard by Jan Rhode](/images/polarbear_guard.jpg)
-The experience I gained working under harsh arctic conditions gave me the opportunity to join the MOSAiC drifting expedition. Aboard the icebreaker Polarstern, however, I was not working as a geologist but within field logistics and polar bear safety.
+The experience I gained working under harsh arctic conditions gave me the opportunity to join the MOSAiC drifting expedition. Aboard the icebreaker Polarstern, however, I was not working as a geologist but as a polar bear guard.
