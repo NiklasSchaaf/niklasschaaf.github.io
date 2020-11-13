@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* BSc in Geoscience, University of Potsdam, 2017
+* PhD in Geoscience, Kiel University, current
 * MSc in Geoscience, University of Oslo and The University Centre in Svalbard, 2019
+* BSc in Geoscience, University of Potsdam, 2017
 
 Work experience
 ======
-* Spring 2019: Teaching Assistant
-  * The University Centre in Svalbard
-  * Support the teaching of the courses:
-   * The Tectonic and Sedimentary History of Svalbard
-   * Integrated Geological Methods: From Outcrop to Geomodel
-
 * Summer 2019: Intern
   * Equinor Exploration
-  * Interpretation of semiregional seismic lines
-  * Balancing crosssections
-  
+  * Seismic interpretation
+  * Structural restoration
+
+* Spring 2019: Teaching Assistant
+  * The University Centre in Svalbard
+  * Supporting courses in the field and the classroom:
+   * The Tectonic and Sedimentary History of Svalbard
+   * Integrated Geological Methods: From Outcrop to Geomodel  
 
 Publications
 ======
