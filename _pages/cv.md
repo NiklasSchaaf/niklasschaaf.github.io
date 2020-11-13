@@ -25,8 +25,8 @@ Work experience
 * Spring 2019: Teaching Assistant
   * The University Centre in Svalbard
   * Supporting courses in the field and the classroom:
-   * The Tectonic and Sedimentary History of Svalbard
-   * Integrated Geological Methods: From Outcrop to Geomodel  
+   - The Tectonic and Sedimentary History of Svalbard
+   - Integrated Geological Methods: From Outcrop to Geomodel  
 
 Publications
 ======
