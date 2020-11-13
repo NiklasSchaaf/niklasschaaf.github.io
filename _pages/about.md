@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: https://niklasschaaf.github.io//images/Dhauladhar.jpg
+  overlay_filter: 0.2
   caption: "Dhauladar Range by [Niklas Schaaf](https://niklasschaaf.github.io/)"
 excerpt: ""
 ---
