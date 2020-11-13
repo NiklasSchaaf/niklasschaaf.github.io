@@ -17,16 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2019: Intern
-  * Equinor Exploration
+* Summer 2019: Intern - Equinor Exploration
   * Seismic interpretation
   * Structural restoration
 
-* Spring 2019: Teaching Assistant
-  * The University Centre in Svalbard
-  * Supporting courses in the field and the classroom:
-   - The Tectonic and Sedimentary History of Svalbard
-   - Integrated Geological Methods: From Outcrop to Geomodel  
+* Spring 2019: Teaching Assistant - The University Centre in Svalbard
+  * The Tectonic and Sedimentary History of Svalbard
+  * Integrated Geological Methods: From Outcrop to Geomodel  
 
 Publications
 ======
