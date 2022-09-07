@@ -13,7 +13,7 @@ header:
 excerpt: ""
 ---
 
-I recently started my PhD at Kiel University in collaboration with the University of Potsdam focusing on links between tectonics, sedimentation and climate. My study areas include the northwestern and central part of the Himalaya where I will conduct traditional fieldwork complemented by dating techniques, such as CRN and OSL, as well as GIS analyses.
+I'm a Computational Science MSc student at the Universtiy of Amsterdam with a backround in Geoscience.
 
 Arctic background
 ======
