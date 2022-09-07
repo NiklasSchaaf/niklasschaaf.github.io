@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc, University of Amsterdam, current
+* MSc in Computational Science, University of Amsterdam, current
 * MSc in Geoscience, University of Oslo and The University Centre in Svalbard, 2019
 * BSc in Geoscience, University of Potsdam, 2017
 
