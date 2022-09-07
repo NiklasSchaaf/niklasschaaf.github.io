@@ -13,7 +13,7 @@ header:
 excerpt: ""
 ---
 
-I'm a Computational Science MSc student at the Universtiy of Amsterdam with a backround in Geoscience.
+I'm a Computational Science MSc student at the Universtiy of Amsterdam with a background in Geoscience.
 
 Arctic background
 ======
